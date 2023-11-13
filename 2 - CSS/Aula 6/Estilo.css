@@ -1,0 +1,9 @@
+body{background: #dfdfdf;
+    .foto-principal{width: 450px;}
+    .foto-principal{ border: 5px solid #f8f3f3} 
+    margin: 30px 30px 30px 30px;   
+    padding: 30px; 
+   
+}
+p{color: rgb(32, 32, 32);
+}

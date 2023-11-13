@@ -1,0 +1,84 @@
+body{
+    background-color: #dfdfdf;
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+
+}
+.profile{
+    text-align: center;
+    margin-bottom: 40px;
+}
+p{
+    color:rgb(34, 34, 34);
+    margin-top: 0px;
+}
+.foto-principal{
+    width: 200px;
+    border: 2px solid #FFFFFF; 
+    border-radius: 50%;
+    margin: 30px 30px 0px 30px;
+    box-shadow: 0px 0px 10px #959595;
+    
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+h2{
+    margin-top: 0px;
+    font-style: italic;
+    color: rgb(31, 31, 31);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+h4{
+    margin-bottom: 1px;
+}
+h5{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 100;
+    font-style: italic;
+}
+.social-links {
+    text-decoration: none;
+}
+.social-icon {
+    width: 20px;
+    margin: 0px 5px 0px 5px;
+}
+
+.youtube {
+    width: 35px;
+    margin: 0px 15px 0px 0px;
+}
+.gmail{
+    width: 22px;
+    margin: 0px 0px 0px 20px;
+
+}
+.facebook{
+    width: 20px;
+    margin: 0px 5px 0px 0px;
+    
+}
+.trabalhos{
+    list-style: none;
+    padding-left: 30px;
+}
+.footer{
+    background-color: black;
+    margin-top: 40px;
+    color:white;
+    text-align: center;
+    padding: 10px 0px;    
+}

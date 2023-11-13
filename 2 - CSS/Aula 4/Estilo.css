@@ -1,0 +1,14 @@
+body{background: #dfdfdf;
+    .foto-principal{width: 450px;}
+    .foto-principal{ border: 5px solid #000000} /* Shorthand */
+    
+    
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    
+    */
+}
+p{color: rgb(32, 32, 32);
+}
